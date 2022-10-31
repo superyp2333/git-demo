@@ -6,6 +6,6 @@ hello world !
 hello git !
 hello git !
 hello git !
-hello git !
-hello git !
+hello git ! 
+hello git ! master test !
 my-hot-fix: arrived !
